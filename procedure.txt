@@ -4,3 +4,8 @@ Objectives:
     1. Create some hands-on projects which can be shown to the clients.
     2. Display them on the page
     3. After process 1 and 2 is done, we have to connect the backend to accept service requests which clients will submit from contact us section.
+
+Python: (Tias)
+    1. Learn Python.
+    2. Create apps using Tkinter
+    3. Proceed to Make ML projects which are useful to clients (mainly focus on providing services)
